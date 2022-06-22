@@ -2,14 +2,18 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="example_23" />
+        <module name="hibernate_04" />
         <module name="example_24" />
         <module name="example_21" />
+        <module name="hibernate_06" />
         <module name="example_22" />
+        <module name="hibernate_05" />
         <module name="example_20" />
         <module name="ElcaInternship" />
         <module name="example_18" />
@@ -26,6 +30,9 @@
       <module name="example_22" options="-parameters" />
       <module name="example_23" options="-parameters" />
       <module name="example_24" options="-parameters" />
+      <module name="hibernate_04" options="-parameters" />
+      <module name="hibernate_05" options="-parameters" />
+      <module name="hibernate_06" options="-parameters" />
     </option>
   </component>
 </project>
